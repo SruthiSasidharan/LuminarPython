@@ -14,3 +14,5 @@ print(mul(3,10))
 
 cube=lambda no1:no1**3
 print(cube(3))
+
+

@@ -6,5 +6,5 @@ upp=int(input("enter upper limit"))
 for i in range(1,(upp+1)):
     if i**num in range(low,upp+1):
 
-       print(i**num)
+        print(i**num)
 

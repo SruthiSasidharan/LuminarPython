@@ -1,0 +1,45 @@
+body{
+    background-color:papayawhip;
+}
+.headone{
+    color:purple;
+    font-weight: bold;
+    text-align: center;
+
+}
+div{
+    width: 15%;
+    height: 500px;
+    
+    
+}
+.one{
+    background-color:darkcyan;
+    position: absolute;
+    left: 10%;
+    top: 20;
+}
+.two{
+    background-color: palegreen;
+    position:absolute;
+    left: 26%;
+    top: 20;
+}
+.three{
+    background-color: yellowgreen;
+    position: absolute;
+    left:42%;
+    top: 20;
+}
+.four{
+    background-color: palevioletred;
+    position: absolute;
+    left: 58%;
+    top:20;
+    
+}
+h1{
+    font-family: 'Architects Daughter', cursive;
+
+
+}

@@ -1,0 +1,20 @@
+class-blueprint/design patters/plan/template
+object-real world entity
+reference-
+
+this-point to current class instance
+
+
+bitwise operators:
+and
+0,""-false
+
+if x is evaluated as false return x,else y
+o and true-->0
+15 and true-->true
+
+or 
+if x is evaluated as true return x,else y
+0 or true-->true
+15 or true-->15
+

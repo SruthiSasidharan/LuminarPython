@@ -12,6 +12,6 @@ class maths:
 
 math=maths()
 math.add(11,99)           #it calls only last method(recent)
-
+#same class name same fun,differnt num of parameters
 
 

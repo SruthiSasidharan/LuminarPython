@@ -5,6 +5,7 @@ lst=[
 ]
 lss=[]
 for num in lst:
-    for num in lss:
-        op.append(num)
+    for i in num:
+        lss.append(i)
  #   print(num,end="")
+print(lss)

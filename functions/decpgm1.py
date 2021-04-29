@@ -9,5 +9,5 @@ def ph(fun):
 @ph
 def val_ph(phno):
     return "valid"+phno
-print(val_ph("123456789000000"))
+print(val_ph("9856786754"))
 
